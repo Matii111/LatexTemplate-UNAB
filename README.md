@@ -3,7 +3,7 @@
   
   *El presente trabajo fue realizado por necesidad y motivacion propia y de ninguna manera esta relacionado directamente con la institucion.*
 ## Preview
-  Preview de plantilla y enlace de pdf: <a href="https://github.com/Matii111/LatexTemplate-UNAB/files/9780451/Template_UNAB.pdf" PDF>PDF</a>
+  Preview de plantilla y enlace de pdf: <a href="https://github.com/Matii111/LatexTemplate-UNAB/files/11262668/Template_UNAB.pdf" PDF>PDF</a>
   <figure>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/101642846/232802763-5aa91f2d-b189-436c-b9e7-1e41f22471c5.jpg" width="400">
